@@ -1,0 +1,39 @@
+nav{
+
+    background-color: rgb(118, 208, 224);
+    color:rgb(0, 0, 0);
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+
+nav li a:hover{
+
+    color: #000;
+    text-decoration: none;
+   
+}
+
+body {
+    background-color: #ffffff;
+  }
+
